@@ -7,6 +7,7 @@
 
 ## Write-up
 
+https://infotomb.com/z0xp5.pdf
 
 ## Other write-ups
 
